@@ -1,0 +1,188 @@
+[
+    {
+        "@timestamp": "2023-03-23 04:37:03.518",
+        "@message": "REPORT RequestId: bb7eb570-41e9-4d57-bd7f-46f0025f5ead\tDuration: 236.91 ms\tBilled Duration: 237 ms\tMemory Size: 128 MB\tMax Memory Used: 66 MB\t\n",
+        "@logStream": "2023/03/23/[$LATEST]0ee64d187dcf42efa63957235685b301",
+        "@log": "878572211585:/aws/lambda/lambda-dotnet"
+    },
+    {
+        "@timestamp": "2023-03-23 04:37:01.918",
+        "@message": "REPORT RequestId: 66a5139e-6031-4e10-aaec-0ddac146df7c\tDuration: 46.64 ms\tBilled Duration: 47 ms\tMemory Size: 128 MB\tMax Memory Used: 66 MB\t\n",
+        "@logStream": "2023/03/23/[$LATEST]0ee64d187dcf42efa63957235685b301",
+        "@log": "878572211585:/aws/lambda/lambda-dotnet"
+    },
+    {
+        "@timestamp": "2023-03-23 04:37:00.038",
+        "@message": "REPORT RequestId: b631ffa2-3701-4ae6-8c93-f7a2c708bb35\tDuration: 32.80 ms\tBilled Duration: 33 ms\tMemory Size: 128 MB\tMax Memory Used: 66 MB\t\n",
+        "@logStream": "2023/03/23/[$LATEST]0ee64d187dcf42efa63957235685b301",
+        "@log": "878572211585:/aws/lambda/lambda-dotnet"
+    },
+    {
+        "@timestamp": "2023-03-23 04:36:58.218",
+        "@message": "REPORT RequestId: 6ea7ac11-b214-4752-a81f-17fd3afa8c8f\tDuration: 37.99 ms\tBilled Duration: 38 ms\tMemory Size: 128 MB\tMax Memory Used: 66 MB\t\n",
+        "@logStream": "2023/03/23/[$LATEST]0ee64d187dcf42efa63957235685b301",
+        "@log": "878572211585:/aws/lambda/lambda-dotnet"
+    },
+    {
+        "@timestamp": "2023-03-23 04:36:56.378",
+        "@message": "REPORT RequestId: e6d6e0de-a353-45d1-bc8c-bf56c4044b9c\tDuration: 150.23 ms\tBilled Duration: 151 ms\tMemory Size: 128 MB\tMax Memory Used: 66 MB\t\n",
+        "@logStream": "2023/03/23/[$LATEST]0ee64d187dcf42efa63957235685b301",
+        "@log": "878572211585:/aws/lambda/lambda-dotnet"
+    },
+    {
+        "@timestamp": "2023-03-23 04:36:54.438",
+        "@message": "REPORT RequestId: ff43f29c-6243-42fa-940a-d04ccd86ca7f\tDuration: 65.39 ms\tBilled Duration: 66 ms\tMemory Size: 128 MB\tMax Memory Used: 66 MB\t\n",
+        "@logStream": "2023/03/23/[$LATEST]0ee64d187dcf42efa63957235685b301",
+        "@log": "878572211585:/aws/lambda/lambda-dotnet"
+    },
+    {
+        "@timestamp": "2023-03-23 04:36:52.998",
+        "@message": "REPORT RequestId: 6116a399-9104-4e04-a295-5a2cefe50a3c\tDuration: 48.02 ms\tBilled Duration: 49 ms\tMemory Size: 128 MB\tMax Memory Used: 66 MB\t\n",
+        "@logStream": "2023/03/23/[$LATEST]0ee64d187dcf42efa63957235685b301",
+        "@log": "878572211585:/aws/lambda/lambda-dotnet"
+    },
+    {
+        "@timestamp": "2023-03-23 04:36:51.198",
+        "@message": "REPORT RequestId: 5dc99469-a9e6-46d1-8621-32102dd7fa30\tDuration: 208.71 ms\tBilled Duration: 209 ms\tMemory Size: 128 MB\tMax Memory Used: 66 MB\t\n",
+        "@logStream": "2023/03/23/[$LATEST]0ee64d187dcf42efa63957235685b301",
+        "@log": "878572211585:/aws/lambda/lambda-dotnet"
+    },
+    {
+        "@timestamp": "2023-03-23 04:36:49.255",
+        "@message": "REPORT RequestId: ee1836b7-3919-4ec8-9e59-90f90c85908a\tDuration: 1.64 ms\tBilled Duration: 2 ms\tMemory Size: 128 MB\tMax Memory Used: 66 MB\t\n",
+        "@logStream": "2023/03/23/[$LATEST]0ee64d187dcf42efa63957235685b301",
+        "@log": "878572211585:/aws/lambda/lambda-dotnet"
+    },
+    {
+        "@timestamp": "2023-03-23 04:36:47.478",
+        "@message": "REPORT RequestId: 3e80b3a0-018b-4f98-b8e5-096f98364825\tDuration: 28.46 ms\tBilled Duration: 29 ms\tMemory Size: 128 MB\tMax Memory Used: 65 MB\t\n",
+        "@logStream": "2023/03/23/[$LATEST]0ee64d187dcf42efa63957235685b301",
+        "@log": "878572211585:/aws/lambda/lambda-dotnet"
+    },
+    {
+        "@timestamp": "2023-03-23 04:36:45.458",
+        "@message": "REPORT RequestId: a7a23587-3f16-44b9-ab42-2e2b5a648fee\tDuration: 1.99 ms\tBilled Duration: 2 ms\tMemory Size: 128 MB\tMax Memory Used: 65 MB\t\n",
+        "@logStream": "2023/03/23/[$LATEST]0ee64d187dcf42efa63957235685b301",
+        "@log": "878572211585:/aws/lambda/lambda-dotnet"
+    },
+    {
+        "@timestamp": "2023-03-23 04:36:43.739",
+        "@message": "REPORT RequestId: f984ab41-fb5c-4f29-ba55-d74a20a19106\tDuration: 208.08 ms\tBilled Duration: 209 ms\tMemory Size: 128 MB\tMax Memory Used: 65 MB\t\n",
+        "@logStream": "2023/03/23/[$LATEST]0ee64d187dcf42efa63957235685b301",
+        "@log": "878572211585:/aws/lambda/lambda-dotnet"
+    },
+    {
+        "@timestamp": "2023-03-23 04:36:41.818",
+        "@message": "REPORT RequestId: ce35adf8-ca6c-4180-becd-e9b755373ec5\tDuration: 19.86 ms\tBilled Duration: 20 ms\tMemory Size: 128 MB\tMax Memory Used: 64 MB\t\n",
+        "@logStream": "2023/03/23/[$LATEST]0ee64d187dcf42efa63957235685b301",
+        "@log": "878572211585:/aws/lambda/lambda-dotnet"
+    },
+    {
+        "@timestamp": "2023-03-23 04:36:39.878",
+        "@message": "REPORT RequestId: 6615dd89-ae5d-4cd3-9451-43d2998731be\tDuration: 8.38 ms\tBilled Duration: 9 ms\tMemory Size: 128 MB\tMax Memory Used: 64 MB\t\n",
+        "@logStream": "2023/03/23/[$LATEST]0ee64d187dcf42efa63957235685b301",
+        "@log": "878572211585:/aws/lambda/lambda-dotnet"
+    },
+    {
+        "@timestamp": "2023-03-23 04:36:38.118",
+        "@message": "REPORT RequestId: c2566fc7-1c18-4aae-9e82-ea68773a4e02\tDuration: 48.45 ms\tBilled Duration: 49 ms\tMemory Size: 128 MB\tMax Memory Used: 64 MB\t\n",
+        "@logStream": "2023/03/23/[$LATEST]0ee64d187dcf42efa63957235685b301",
+        "@log": "878572211585:/aws/lambda/lambda-dotnet"
+    },
+    {
+        "@timestamp": "2023-03-23 04:36:36.059",
+        "@message": "REPORT RequestId: e1402c46-80cc-4f8a-86e3-4d51762e4120\tDuration: 31.00 ms\tBilled Duration: 31 ms\tMemory Size: 128 MB\tMax Memory Used: 64 MB\t\n",
+        "@logStream": "2023/03/23/[$LATEST]0ee64d187dcf42efa63957235685b301",
+        "@log": "878572211585:/aws/lambda/lambda-dotnet"
+    },
+    {
+        "@timestamp": "2023-03-23 04:36:34.115",
+        "@message": "REPORT RequestId: 8d87b6b8-5c93-4c46-97e4-b36e0703fd9f\tDuration: 1.51 ms\tBilled Duration: 2 ms\tMemory Size: 128 MB\tMax Memory Used: 64 MB\t\n",
+        "@logStream": "2023/03/23/[$LATEST]0ee64d187dcf42efa63957235685b301",
+        "@log": "878572211585:/aws/lambda/lambda-dotnet"
+    },
+    {
+        "@timestamp": "2023-03-23 04:36:32.298",
+        "@message": "REPORT RequestId: 29b6fc54-aabc-4ed4-a683-f0d77ef7f771\tDuration: 22.62 ms\tBilled Duration: 23 ms\tMemory Size: 128 MB\tMax Memory Used: 64 MB\t\n",
+        "@logStream": "2023/03/23/[$LATEST]0ee64d187dcf42efa63957235685b301",
+        "@log": "878572211585:/aws/lambda/lambda-dotnet"
+    },
+    {
+        "@timestamp": "2023-03-23 04:36:30.478",
+        "@message": "REPORT RequestId: 7026b214-3115-4b8d-a6d6-7ee0952d87ff\tDuration: 1.48 ms\tBilled Duration: 2 ms\tMemory Size: 128 MB\tMax Memory Used: 64 MB\t\n",
+        "@logStream": "2023/03/23/[$LATEST]0ee64d187dcf42efa63957235685b301",
+        "@log": "878572211585:/aws/lambda/lambda-dotnet"
+    },
+    {
+        "@timestamp": "2023-03-23 04:36:28.518",
+        "@message": "REPORT RequestId: 0248bb78-6424-4ad3-be37-14ef9502c62b\tDuration: 11.83 ms\tBilled Duration: 12 ms\tMemory Size: 128 MB\tMax Memory Used: 64 MB\t\n",
+        "@logStream": "2023/03/23/[$LATEST]0ee64d187dcf42efa63957235685b301",
+        "@log": "878572211585:/aws/lambda/lambda-dotnet"
+    },
+    {
+        "@timestamp": "2023-03-23 04:36:26.518",
+        "@message": "REPORT RequestId: 2c433956-868e-46be-a635-0ba415d524ce\tDuration: 163.22 ms\tBilled Duration: 164 ms\tMemory Size: 128 MB\tMax Memory Used: 64 MB\t\n",
+        "@logStream": "2023/03/23/[$LATEST]0ee64d187dcf42efa63957235685b301",
+        "@log": "878572211585:/aws/lambda/lambda-dotnet"
+    },
+    {
+        "@timestamp": "2023-03-23 04:36:24.477",
+        "@message": "REPORT RequestId: f1fd0a85-9876-48d1-8cdf-44122e6c9002\tDuration: 5.52 ms\tBilled Duration: 6 ms\tMemory Size: 128 MB\tMax Memory Used: 63 MB\t\n",
+        "@logStream": "2023/03/23/[$LATEST]0ee64d187dcf42efa63957235685b301",
+        "@log": "878572211585:/aws/lambda/lambda-dotnet"
+    },
+    {
+        "@timestamp": "2023-03-23 04:36:22.678",
+        "@message": "REPORT RequestId: 4dd91059-a35e-4644-ba38-f147e620ebc7\tDuration: 39.38 ms\tBilled Duration: 40 ms\tMemory Size: 128 MB\tMax Memory Used: 63 MB\t\n",
+        "@logStream": "2023/03/23/[$LATEST]0ee64d187dcf42efa63957235685b301",
+        "@log": "878572211585:/aws/lambda/lambda-dotnet"
+    },
+    {
+        "@timestamp": "2023-03-23 04:36:20.818",
+        "@message": "REPORT RequestId: aa14329c-7113-422a-8f69-337c53eee73e\tDuration: 15.72 ms\tBilled Duration: 16 ms\tMemory Size: 128 MB\tMax Memory Used: 63 MB\t\n",
+        "@logStream": "2023/03/23/[$LATEST]0ee64d187dcf42efa63957235685b301",
+        "@log": "878572211585:/aws/lambda/lambda-dotnet"
+    },
+    {
+        "@timestamp": "2023-03-23 04:36:18.977",
+        "@message": "REPORT RequestId: 136aa18f-a962-45a9-be2a-a59b00020b65\tDuration: 21.49 ms\tBilled Duration: 22 ms\tMemory Size: 128 MB\tMax Memory Used: 63 MB\t\n",
+        "@logStream": "2023/03/23/[$LATEST]0ee64d187dcf42efa63957235685b301",
+        "@log": "878572211585:/aws/lambda/lambda-dotnet"
+    },
+    {
+        "@timestamp": "2023-03-23 04:36:17.237",
+        "@message": "REPORT RequestId: 19828231-79a8-4fb4-9c64-d641ce927cd6\tDuration: 29.78 ms\tBilled Duration: 30 ms\tMemory Size: 128 MB\tMax Memory Used: 62 MB\t\n",
+        "@logStream": "2023/03/23/[$LATEST]0ee64d187dcf42efa63957235685b301",
+        "@log": "878572211585:/aws/lambda/lambda-dotnet"
+    },
+    {
+        "@timestamp": "2023-03-23 04:36:15.377",
+        "@message": "REPORT RequestId: d52bfa36-5818-4f54-bc42-87ae5658df8d\tDuration: 6.31 ms\tBilled Duration: 7 ms\tMemory Size: 128 MB\tMax Memory Used: 62 MB\t\n",
+        "@logStream": "2023/03/23/[$LATEST]0ee64d187dcf42efa63957235685b301",
+        "@log": "878572211585:/aws/lambda/lambda-dotnet"
+    },
+    {
+        "@timestamp": "2023-03-23 04:36:13.533",
+        "@message": "REPORT RequestId: abf7a21e-ac48-4d35-8b45-a2e44c2f525a\tDuration: 1.80 ms\tBilled Duration: 2 ms\tMemory Size: 128 MB\tMax Memory Used: 62 MB\t\n",
+        "@logStream": "2023/03/23/[$LATEST]0ee64d187dcf42efa63957235685b301",
+        "@log": "878572211585:/aws/lambda/lambda-dotnet"
+    },
+    {
+        "@timestamp": "2023-03-23 04:36:11.693",
+        "@message": "REPORT RequestId: 509db492-4bcb-426d-bd94-305a723ef58c\tDuration: 1.57 ms\tBilled Duration: 2 ms\tMemory Size: 128 MB\tMax Memory Used: 62 MB\t\n",
+        "@logStream": "2023/03/23/[$LATEST]0ee64d187dcf42efa63957235685b301",
+        "@log": "878572211585:/aws/lambda/lambda-dotnet"
+    },
+    {
+        "@timestamp": "2023-03-23 04:36:09.839",
+        "@message": "REPORT RequestId: 3a92f700-389b-49d6-a64c-d967280ce621\tDuration: 2.55 ms\tBilled Duration: 3 ms\tMemory Size: 128 MB\tMax Memory Used: 62 MB\t\n",
+        "@logStream": "2023/03/23/[$LATEST]0ee64d187dcf42efa63957235685b301",
+        "@log": "878572211585:/aws/lambda/lambda-dotnet"
+    },
+    {
+        "@timestamp": "2023-03-23 04:36:08.017",
+        "@message": "REPORT RequestId: e12dd6fd-8d07-4341-b4e1-e169d34a4d28\tDuration: 892.02 ms\tBilled Duration: 893 ms\tMemory Size: 128 MB\tMax Memory Used: 61 MB\tInit Duration: 246.45 ms\t\n",
+        "@logStream": "2023/03/23/[$LATEST]0ee64d187dcf42efa63957235685b301",
+        "@log": "878572211585:/aws/lambda/lambda-dotnet"
+    }
+]

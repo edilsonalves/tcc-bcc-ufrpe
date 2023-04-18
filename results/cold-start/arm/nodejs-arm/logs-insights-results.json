@@ -1,0 +1,188 @@
+[
+    {
+        "@timestamp": "2023-03-23 19:50:50.043",
+        "@message": "REPORT RequestId: 0c287ee6-5bc9-4e4d-8d82-95877640ceb5\tDuration: 479.34 ms\tBilled Duration: 480 ms\tMemory Size: 128 MB\tMax Memory Used: 69 MB\tInit Duration: 207.04 ms\t\n",
+        "@logStream": "2023/03/23/[$LATEST]1689f33138ec4fb39d94549f4c6d2e40",
+        "@log": "878572211585:/aws/lambda/lambda-nodejs-arm"
+    },
+    {
+        "@timestamp": "2023-03-23 19:49:27.051",
+        "@message": "REPORT RequestId: 08418248-81f5-4df4-aa77-dd3913082289\tDuration: 423.14 ms\tBilled Duration: 424 ms\tMemory Size: 128 MB\tMax Memory Used: 69 MB\tInit Duration: 223.15 ms\t\n",
+        "@logStream": "2023/03/23/[$LATEST]74008fbef1b5414c9c58565352c34519",
+        "@log": "878572211585:/aws/lambda/lambda-nodejs-arm"
+    },
+    {
+        "@timestamp": "2023-03-23 19:48:08.851",
+        "@message": "REPORT RequestId: e74b5f80-49e1-4041-aca7-155c3b8970dd\tDuration: 259.36 ms\tBilled Duration: 260 ms\tMemory Size: 128 MB\tMax Memory Used: 69 MB\tInit Duration: 223.25 ms\t\n",
+        "@logStream": "2023/03/23/[$LATEST]c24244fa916846c28918076bded9ef22",
+        "@log": "878572211585:/aws/lambda/lambda-nodejs-arm"
+    },
+    {
+        "@timestamp": "2023-03-23 19:46:45.238",
+        "@message": "REPORT RequestId: 6c95a9e0-59a7-43fa-be46-936e37517e8a\tDuration: 373.98 ms\tBilled Duration: 374 ms\tMemory Size: 128 MB\tMax Memory Used: 69 MB\tInit Duration: 216.85 ms\t\n",
+        "@logStream": "2023/03/23/[$LATEST]420ef04f0d214135b8b8e02cc814e2f7",
+        "@log": "878572211585:/aws/lambda/lambda-nodejs-arm"
+    },
+    {
+        "@timestamp": "2023-03-23 19:45:27.055",
+        "@message": "REPORT RequestId: 85084008-27de-47dd-a070-cde24e4d40cb\tDuration: 228.59 ms\tBilled Duration: 229 ms\tMemory Size: 128 MB\tMax Memory Used: 69 MB\tInit Duration: 218.13 ms\t\n",
+        "@logStream": "2023/03/23/[$LATEST]1823cd77a8a144f38e112f40176c47af",
+        "@log": "878572211585:/aws/lambda/lambda-nodejs-arm"
+    },
+    {
+        "@timestamp": "2023-03-23 19:44:07.076",
+        "@message": "REPORT RequestId: 1ce9ff7f-da44-4d3d-8989-58e3cd775571\tDuration: 187.16 ms\tBilled Duration: 188 ms\tMemory Size: 128 MB\tMax Memory Used: 68 MB\tInit Duration: 223.13 ms\t\n",
+        "@logStream": "2023/03/23/[$LATEST]898977b8a8324b0a8ff0ae302f07708b",
+        "@log": "878572211585:/aws/lambda/lambda-nodejs-arm"
+    },
+    {
+        "@timestamp": "2023-03-23 19:42:46.345",
+        "@message": "REPORT RequestId: e9f3169d-1f09-4517-b47f-811f50ea19e9\tDuration: 158.49 ms\tBilled Duration: 159 ms\tMemory Size: 128 MB\tMax Memory Used: 69 MB\tInit Duration: 243.08 ms\t\n",
+        "@logStream": "2023/03/23/[$LATEST]2611287f93ba415ab696d106bffece37",
+        "@log": "878572211585:/aws/lambda/lambda-nodejs-arm"
+    },
+    {
+        "@timestamp": "2023-03-23 19:41:12.054",
+        "@message": "REPORT RequestId: 10497a0d-f65c-4ebf-994c-86667bc6c74c\tDuration: 132.06 ms\tBilled Duration: 133 ms\tMemory Size: 128 MB\tMax Memory Used: 69 MB\tInit Duration: 218.29 ms\t\n",
+        "@logStream": "2023/03/23/[$LATEST]0d6725fcfc36471db9adfae32bd87840",
+        "@log": "878572211585:/aws/lambda/lambda-nodejs-arm"
+    },
+    {
+        "@timestamp": "2023-03-23 19:39:49.491",
+        "@message": "REPORT RequestId: c26247aa-d647-415b-acd6-05a54fe2bd7b\tDuration: 95.00 ms\tBilled Duration: 96 ms\tMemory Size: 128 MB\tMax Memory Used: 68 MB\tInit Duration: 227.76 ms\t\n",
+        "@logStream": "2023/03/23/[$LATEST]0c918b04f521424a9db0c4c86b4c1fc1",
+        "@log": "878572211585:/aws/lambda/lambda-nodejs-arm"
+    },
+    {
+        "@timestamp": "2023-03-23 19:38:35.283",
+        "@message": "REPORT RequestId: d241a832-6139-42b0-9c50-6772eab3b1c9\tDuration: 66.09 ms\tBilled Duration: 67 ms\tMemory Size: 128 MB\tMax Memory Used: 68 MB\tInit Duration: 220.73 ms\t\n",
+        "@logStream": "2023/03/23/[$LATEST]5a028876076846a08acbf99e11197184",
+        "@log": "878572211585:/aws/lambda/lambda-nodejs-arm"
+    },
+    {
+        "@timestamp": "2023-03-23 19:37:19.475",
+        "@message": "REPORT RequestId: feee75c5-ade2-4e39-a3fa-0250c110027b\tDuration: 73.29 ms\tBilled Duration: 74 ms\tMemory Size: 128 MB\tMax Memory Used: 68 MB\tInit Duration: 221.09 ms\t\n",
+        "@logStream": "2023/03/23/[$LATEST]2175e65129cc4d1d953e914cec4e5e6d",
+        "@log": "878572211585:/aws/lambda/lambda-nodejs-arm"
+    },
+    {
+        "@timestamp": "2023-03-23 19:36:06.748",
+        "@message": "REPORT RequestId: edb869e5-0f39-4a85-92be-916817a1546e\tDuration: 44.40 ms\tBilled Duration: 45 ms\tMemory Size: 128 MB\tMax Memory Used: 68 MB\tInit Duration: 214.28 ms\t\n",
+        "@logStream": "2023/03/23/[$LATEST]ecdbed458979465c87931c66c915e319",
+        "@log": "878572211585:/aws/lambda/lambda-nodejs-arm"
+    },
+    {
+        "@timestamp": "2023-03-23 19:34:43.644",
+        "@message": "REPORT RequestId: 7308ac32-a2dc-4d43-879b-a9cd05d347e5\tDuration: 5.86 ms\tBilled Duration: 6 ms\tMemory Size: 128 MB\tMax Memory Used: 65 MB\tInit Duration: 220.60 ms\t\n",
+        "@logStream": "2023/03/23/[$LATEST]8be71aff565b4ab5822c909a8a3d01df",
+        "@log": "878572211585:/aws/lambda/lambda-nodejs-arm"
+    },
+    {
+        "@timestamp": "2023-03-23 19:33:26.532",
+        "@message": "REPORT RequestId: 433d1e92-9417-4a49-8a25-56cd145c7c2e\tDuration: 20.22 ms\tBilled Duration: 21 ms\tMemory Size: 128 MB\tMax Memory Used: 65 MB\tInit Duration: 218.17 ms\t\n",
+        "@logStream": "2023/03/23/[$LATEST]a2702378dc094d9eb72cec1ae5b99d45",
+        "@log": "878572211585:/aws/lambda/lambda-nodejs-arm"
+    },
+    {
+        "@timestamp": "2023-03-23 19:32:09.769",
+        "@message": "REPORT RequestId: baac9cea-9b7b-42e4-9d5f-66348bc1e7ee\tDuration: 14.38 ms\tBilled Duration: 15 ms\tMemory Size: 128 MB\tMax Memory Used: 66 MB\tInit Duration: 221.50 ms\t\n",
+        "@logStream": "2023/03/23/[$LATEST]d0678eb2b8dd476d9095670a823c516e",
+        "@log": "878572211585:/aws/lambda/lambda-nodejs-arm"
+    },
+    {
+        "@timestamp": "2023-03-23 19:30:41.530",
+        "@message": "REPORT RequestId: 9e92c538-4077-49b3-928a-e2003a2b3ccf\tDuration: 50.43 ms\tBilled Duration: 51 ms\tMemory Size: 128 MB\tMax Memory Used: 66 MB\tInit Duration: 231.63 ms\t\n",
+        "@logStream": "2023/03/23/[$LATEST]179886095d01491a86cb325422509859",
+        "@log": "878572211585:/aws/lambda/lambda-nodejs-arm"
+    },
+    {
+        "@timestamp": "2023-03-23 19:29:23.745",
+        "@message": "REPORT RequestId: 03f2bdb9-fe4e-4c40-ae95-e1151a406916\tDuration: 16.28 ms\tBilled Duration: 17 ms\tMemory Size: 128 MB\tMax Memory Used: 65 MB\tInit Duration: 226.62 ms\t\n",
+        "@logStream": "2023/03/23/[$LATEST]c7c83200ce7e4d6a955eb86ab42577a0",
+        "@log": "878572211585:/aws/lambda/lambda-nodejs-arm"
+    },
+    {
+        "@timestamp": "2023-03-23 19:28:05.620",
+        "@message": "REPORT RequestId: 6ab029f6-4d3c-4be7-aed0-cb615e7fffb7\tDuration: 13.61 ms\tBilled Duration: 14 ms\tMemory Size: 128 MB\tMax Memory Used: 65 MB\tInit Duration: 217.44 ms\t\n",
+        "@logStream": "2023/03/23/[$LATEST]852b19de5a234fd58c00f630d13f92d6",
+        "@log": "878572211585:/aws/lambda/lambda-nodejs-arm"
+    },
+    {
+        "@timestamp": "2023-03-23 19:26:50.473",
+        "@message": "REPORT RequestId: 629ef458-1eff-4306-a4bc-74b329c28e04\tDuration: 3.81 ms\tBilled Duration: 4 ms\tMemory Size: 128 MB\tMax Memory Used: 65 MB\tInit Duration: 214.65 ms\t\n",
+        "@logStream": "2023/03/23/[$LATEST]dd1922d2afa7415f946a5889c9e08ca0",
+        "@log": "878572211585:/aws/lambda/lambda-nodejs-arm"
+    },
+    {
+        "@timestamp": "2023-03-23 19:25:23.325",
+        "@message": "REPORT RequestId: 106b79c4-0216-49ec-8fb1-7cf4d4c0a461\tDuration: 12.26 ms\tBilled Duration: 13 ms\tMemory Size: 128 MB\tMax Memory Used: 66 MB\tInit Duration: 215.02 ms\t\n",
+        "@logStream": "2023/03/23/[$LATEST]ec16bed66c174f75a45d66a1e0377943",
+        "@log": "878572211585:/aws/lambda/lambda-nodejs-arm"
+    },
+    {
+        "@timestamp": "2023-03-23 19:24:09.073",
+        "@message": "REPORT RequestId: 9a694d76-a164-4490-8101-14ed8d2ab978\tDuration: 3.24 ms\tBilled Duration: 4 ms\tMemory Size: 128 MB\tMax Memory Used: 65 MB\tInit Duration: 228.02 ms\t\n",
+        "@logStream": "2023/03/23/[$LATEST]f1c2929bb20242708a96ca912c349259",
+        "@log": "878572211585:/aws/lambda/lambda-nodejs-arm"
+    },
+    {
+        "@timestamp": "2023-03-23 19:22:38.348",
+        "@message": "REPORT RequestId: 0f210cf7-b10a-447c-bb34-7ab036605a59\tDuration: 15.38 ms\tBilled Duration: 16 ms\tMemory Size: 128 MB\tMax Memory Used: 65 MB\tInit Duration: 216.37 ms\t\n",
+        "@logStream": "2023/03/23/[$LATEST]7fc2a89908a54d5b968bf43f32025d27",
+        "@log": "878572211585:/aws/lambda/lambda-nodejs-arm"
+    },
+    {
+        "@timestamp": "2023-03-23 19:21:07.696",
+        "@message": "REPORT RequestId: 2d70fc87-e269-45c1-afaf-e02ad3bb7ba0\tDuration: 31.12 ms\tBilled Duration: 32 ms\tMemory Size: 128 MB\tMax Memory Used: 66 MB\tInit Duration: 223.08 ms\t\n",
+        "@logStream": "2023/03/23/[$LATEST]e9f9f593796c4594a7faa0d50526c991",
+        "@log": "878572211585:/aws/lambda/lambda-nodejs-arm"
+    },
+    {
+        "@timestamp": "2023-03-23 19:19:41.212",
+        "@message": "REPORT RequestId: 583c03e1-1949-40c7-9afc-3b4305b03f25\tDuration: 13.23 ms\tBilled Duration: 14 ms\tMemory Size: 128 MB\tMax Memory Used: 65 MB\tInit Duration: 225.68 ms\t\n",
+        "@logStream": "2023/03/23/[$LATEST]8c5981b36d9d4e0fbcefd28cbebe43c5",
+        "@log": "878572211585:/aws/lambda/lambda-nodejs-arm"
+    },
+    {
+        "@timestamp": "2023-03-23 19:18:10.422",
+        "@message": "REPORT RequestId: 76476f6b-84d9-4f59-a069-141949031649\tDuration: 8.63 ms\tBilled Duration: 9 ms\tMemory Size: 128 MB\tMax Memory Used: 65 MB\tInit Duration: 225.47 ms\t\n",
+        "@logStream": "2023/03/23/[$LATEST]13fc2b1416b5459d9806f48509fceb0f",
+        "@log": "878572211585:/aws/lambda/lambda-nodejs-arm"
+    },
+    {
+        "@timestamp": "2023-03-23 19:16:31.020",
+        "@message": "REPORT RequestId: 3ac40874-0e0d-48b7-838f-e621e3ab2fe2\tDuration: 16.54 ms\tBilled Duration: 17 ms\tMemory Size: 128 MB\tMax Memory Used: 65 MB\tInit Duration: 218.15 ms\t\n",
+        "@logStream": "2023/03/23/[$LATEST]bd5edcb359bb4010ab6f398d72783afd",
+        "@log": "878572211585:/aws/lambda/lambda-nodejs-arm"
+    },
+    {
+        "@timestamp": "2023-03-23 19:14:46.932",
+        "@message": "REPORT RequestId: 227a35b6-0397-4f51-9e83-e220fe1606b2\tDuration: 4.45 ms\tBilled Duration: 5 ms\tMemory Size: 128 MB\tMax Memory Used: 66 MB\tInit Duration: 210.83 ms\t\n",
+        "@logStream": "2023/03/23/[$LATEST]8b4901a2f5944a979da23ffe112e4a6c",
+        "@log": "878572211585:/aws/lambda/lambda-nodejs-arm"
+    },
+    {
+        "@timestamp": "2023-03-23 19:12:56.266",
+        "@message": "REPORT RequestId: 1e258869-93db-462f-af1a-1b0d868e8e7f\tDuration: 13.04 ms\tBilled Duration: 14 ms\tMemory Size: 128 MB\tMax Memory Used: 65 MB\tInit Duration: 221.17 ms\t\n",
+        "@logStream": "2023/03/23/[$LATEST]89ade601097c4c709600d89a93654fb0",
+        "@log": "878572211585:/aws/lambda/lambda-nodejs-arm"
+    },
+    {
+        "@timestamp": "2023-03-23 19:10:43.563",
+        "@message": "REPORT RequestId: ff79fc7f-df24-44a4-b5cf-056cb53d86ce\tDuration: 7.55 ms\tBilled Duration: 8 ms\tMemory Size: 128 MB\tMax Memory Used: 65 MB\tInit Duration: 239.69 ms\t\n",
+        "@logStream": "2023/03/23/[$LATEST]786f17f3888d432c8db3dfd052f2c305",
+        "@log": "878572211585:/aws/lambda/lambda-nodejs-arm"
+    },
+    {
+        "@timestamp": "2023-03-23 19:05:01.591",
+        "@message": "REPORT RequestId: a1c3c20e-bc37-4a58-a4b1-3f863c1bdb05\tDuration: 2.85 ms\tBilled Duration: 3 ms\tMemory Size: 128 MB\tMax Memory Used: 65 MB\tInit Duration: 209.95 ms\t\n",
+        "@logStream": "2023/03/23/[$LATEST]e61b8767ad97429da4a9be85f2ca322a",
+        "@log": "878572211585:/aws/lambda/lambda-nodejs-arm"
+    },
+    {
+        "@timestamp": "2023-03-23 19:02:06.819",
+        "@message": "REPORT RequestId: 2ddd3f2c-9eb5-4809-aaac-6ac3d7d450b9\tDuration: 20.22 ms\tBilled Duration: 21 ms\tMemory Size: 128 MB\tMax Memory Used: 65 MB\tInit Duration: 215.07 ms\t\n",
+        "@logStream": "2023/03/23/[$LATEST]de15e19609f346389b29153e1559a1ae",
+        "@log": "878572211585:/aws/lambda/lambda-nodejs-arm"
+    }
+]

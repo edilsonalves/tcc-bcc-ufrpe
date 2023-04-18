@@ -1,0 +1,188 @@
+[
+    {
+        "@timestamp": "2023-03-23 04:48:00.099",
+        "@message": "REPORT RequestId: 954088d0-7753-4d5c-a179-70e4257f42ab\tDuration: 1534.47 ms\tBilled Duration: 1535 ms\tMemory Size: 128 MB\tMax Memory Used: 33 MB\t\n",
+        "@logStream": "2023/03/23/[$LATEST]0f1112038dda4e978487f4c611488440",
+        "@log": "878572211585:/aws/lambda/lambda-ruby-arm"
+    },
+    {
+        "@timestamp": "2023-03-23 04:47:57.240",
+        "@message": "REPORT RequestId: f12609c3-f60c-4f3f-a2ed-34c41b21ed19\tDuration: 940.86 ms\tBilled Duration: 941 ms\tMemory Size: 128 MB\tMax Memory Used: 33 MB\t\n",
+        "@logStream": "2023/03/23/[$LATEST]0f1112038dda4e978487f4c611488440",
+        "@log": "878572211585:/aws/lambda/lambda-ruby-arm"
+    },
+    {
+        "@timestamp": "2023-03-23 04:47:54.499",
+        "@message": "REPORT RequestId: dc990f31-128d-446e-b966-e18c5690d416\tDuration: 592.90 ms\tBilled Duration: 593 ms\tMemory Size: 128 MB\tMax Memory Used: 33 MB\t\n",
+        "@logStream": "2023/03/23/[$LATEST]0f1112038dda4e978487f4c611488440",
+        "@log": "878572211585:/aws/lambda/lambda-ruby-arm"
+    },
+    {
+        "@timestamp": "2023-03-23 04:47:52.180",
+        "@message": "REPORT RequestId: 7ea2cf29-5319-473d-99ba-239ce5e193d6\tDuration: 362.89 ms\tBilled Duration: 363 ms\tMemory Size: 128 MB\tMax Memory Used: 33 MB\t\n",
+        "@logStream": "2023/03/23/[$LATEST]0f1112038dda4e978487f4c611488440",
+        "@log": "878572211585:/aws/lambda/lambda-ruby-arm"
+    },
+    {
+        "@timestamp": "2023-03-23 04:47:50.099",
+        "@message": "REPORT RequestId: a8f3987a-a1c1-4783-a477-4cb7307bd1d5\tDuration: 238.02 ms\tBilled Duration: 239 ms\tMemory Size: 128 MB\tMax Memory Used: 33 MB\t\n",
+        "@logStream": "2023/03/23/[$LATEST]0f1112038dda4e978487f4c611488440",
+        "@log": "878572211585:/aws/lambda/lambda-ruby-arm"
+    },
+    {
+        "@timestamp": "2023-03-23 04:47:48.120",
+        "@message": "REPORT RequestId: 9360517f-2ee7-4c1f-9990-6f532aa9a58e\tDuration: 138.77 ms\tBilled Duration: 139 ms\tMemory Size: 128 MB\tMax Memory Used: 33 MB\t\n",
+        "@logStream": "2023/03/23/[$LATEST]0f1112038dda4e978487f4c611488440",
+        "@log": "878572211585:/aws/lambda/lambda-ruby-arm"
+    },
+    {
+        "@timestamp": "2023-03-23 04:47:46.240",
+        "@message": "REPORT RequestId: e69a9dcf-3cb1-4f0a-a089-f0b370e19d6a\tDuration: 93.31 ms\tBilled Duration: 94 ms\tMemory Size: 128 MB\tMax Memory Used: 33 MB\t\n",
+        "@logStream": "2023/03/23/[$LATEST]0f1112038dda4e978487f4c611488440",
+        "@log": "878572211585:/aws/lambda/lambda-ruby-arm"
+    },
+    {
+        "@timestamp": "2023-03-23 04:47:44.400",
+        "@message": "REPORT RequestId: d386ec8c-6925-4d09-8020-ca329e359720\tDuration: 57.64 ms\tBilled Duration: 58 ms\tMemory Size: 128 MB\tMax Memory Used: 33 MB\t\n",
+        "@logStream": "2023/03/23/[$LATEST]0f1112038dda4e978487f4c611488440",
+        "@log": "878572211585:/aws/lambda/lambda-ruby-arm"
+    },
+    {
+        "@timestamp": "2023-03-23 04:47:42.600",
+        "@message": "REPORT RequestId: 814e24bc-abbc-4bf6-940e-cef42a2de2f2\tDuration: 25.93 ms\tBilled Duration: 26 ms\tMemory Size: 128 MB\tMax Memory Used: 33 MB\t\n",
+        "@logStream": "2023/03/23/[$LATEST]0f1112038dda4e978487f4c611488440",
+        "@log": "878572211585:/aws/lambda/lambda-ruby-arm"
+    },
+    {
+        "@timestamp": "2023-03-23 04:47:40.759",
+        "@message": "REPORT RequestId: 316b5c1b-041b-4ba2-a247-41f1cd794e02\tDuration: 31.52 ms\tBilled Duration: 32 ms\tMemory Size: 128 MB\tMax Memory Used: 33 MB\t\n",
+        "@logStream": "2023/03/23/[$LATEST]0f1112038dda4e978487f4c611488440",
+        "@log": "878572211585:/aws/lambda/lambda-ruby-arm"
+    },
+    {
+        "@timestamp": "2023-03-23 04:47:38.940",
+        "@message": "REPORT RequestId: d47c06d0-c5f9-46cb-890d-2216949425b2\tDuration: 15.98 ms\tBilled Duration: 16 ms\tMemory Size: 128 MB\tMax Memory Used: 33 MB\t\n",
+        "@logStream": "2023/03/23/[$LATEST]0f1112038dda4e978487f4c611488440",
+        "@log": "878572211585:/aws/lambda/lambda-ruby-arm"
+    },
+    {
+        "@timestamp": "2023-03-23 04:47:37.180",
+        "@message": "REPORT RequestId: 12782a63-c252-41d7-8b5e-b2a90a89bd3d\tDuration: 22.98 ms\tBilled Duration: 23 ms\tMemory Size: 128 MB\tMax Memory Used: 33 MB\t\n",
+        "@logStream": "2023/03/23/[$LATEST]0f1112038dda4e978487f4c611488440",
+        "@log": "878572211585:/aws/lambda/lambda-ruby-arm"
+    },
+    {
+        "@timestamp": "2023-03-23 04:47:35.379",
+        "@message": "REPORT RequestId: 0c129936-e901-4dd0-856c-f32452d691c3\tDuration: 2.78 ms\tBilled Duration: 3 ms\tMemory Size: 128 MB\tMax Memory Used: 33 MB\t\n",
+        "@logStream": "2023/03/23/[$LATEST]0f1112038dda4e978487f4c611488440",
+        "@log": "878572211585:/aws/lambda/lambda-ruby-arm"
+    },
+    {
+        "@timestamp": "2023-03-23 04:47:33.579",
+        "@message": "REPORT RequestId: c1f0d88d-4486-4e84-a524-f88176472d01\tDuration: 21.09 ms\tBilled Duration: 22 ms\tMemory Size: 128 MB\tMax Memory Used: 33 MB\t\n",
+        "@logStream": "2023/03/23/[$LATEST]0f1112038dda4e978487f4c611488440",
+        "@log": "878572211585:/aws/lambda/lambda-ruby-arm"
+    },
+    {
+        "@timestamp": "2023-03-23 04:47:31.739",
+        "@message": "REPORT RequestId: 8c998c4e-a86e-421f-9043-8a59b4317fd0\tDuration: 6.68 ms\tBilled Duration: 7 ms\tMemory Size: 128 MB\tMax Memory Used: 33 MB\t\n",
+        "@logStream": "2023/03/23/[$LATEST]0f1112038dda4e978487f4c611488440",
+        "@log": "878572211585:/aws/lambda/lambda-ruby-arm"
+    },
+    {
+        "@timestamp": "2023-03-23 04:47:29.887",
+        "@message": "REPORT RequestId: 7e7f3195-3a29-43ff-9c79-99153def7c4a\tDuration: 2.23 ms\tBilled Duration: 3 ms\tMemory Size: 128 MB\tMax Memory Used: 33 MB\t\n",
+        "@logStream": "2023/03/23/[$LATEST]0f1112038dda4e978487f4c611488440",
+        "@log": "878572211585:/aws/lambda/lambda-ruby-arm"
+    },
+    {
+        "@timestamp": "2023-03-23 04:47:28.027",
+        "@message": "REPORT RequestId: 8ca29e7a-38cd-4839-8e7a-615845d50d80\tDuration: 2.14 ms\tBilled Duration: 3 ms\tMemory Size: 128 MB\tMax Memory Used: 33 MB\t\n",
+        "@logStream": "2023/03/23/[$LATEST]0f1112038dda4e978487f4c611488440",
+        "@log": "878572211585:/aws/lambda/lambda-ruby-arm"
+    },
+    {
+        "@timestamp": "2023-03-23 04:47:26.619",
+        "@message": "REPORT RequestId: 3c1327ad-04e6-4435-af2a-7e2c5133b34a\tDuration: 14.11 ms\tBilled Duration: 15 ms\tMemory Size: 128 MB\tMax Memory Used: 33 MB\t\n",
+        "@logStream": "2023/03/23/[$LATEST]0f1112038dda4e978487f4c611488440",
+        "@log": "878572211585:/aws/lambda/lambda-ruby-arm"
+    },
+    {
+        "@timestamp": "2023-03-23 04:47:24.846",
+        "@message": "REPORT RequestId: def4fb37-3f38-4f95-8365-d3ec571054dd\tDuration: 2.18 ms\tBilled Duration: 3 ms\tMemory Size: 128 MB\tMax Memory Used: 33 MB\t\n",
+        "@logStream": "2023/03/23/[$LATEST]0f1112038dda4e978487f4c611488440",
+        "@log": "878572211585:/aws/lambda/lambda-ruby-arm"
+    },
+    {
+        "@timestamp": "2023-03-23 04:47:22.839",
+        "@message": "REPORT RequestId: 8aaf87b3-0947-4bc0-90c9-53f833f0cefd\tDuration: 2.07 ms\tBilled Duration: 3 ms\tMemory Size: 128 MB\tMax Memory Used: 32 MB\t\n",
+        "@logStream": "2023/03/23/[$LATEST]0f1112038dda4e978487f4c611488440",
+        "@log": "878572211585:/aws/lambda/lambda-ruby-arm"
+    },
+    {
+        "@timestamp": "2023-03-23 04:47:20.960",
+        "@message": "REPORT RequestId: 5f14d4c6-6514-45dc-9f38-642271b92fe6\tDuration: 7.03 ms\tBilled Duration: 8 ms\tMemory Size: 128 MB\tMax Memory Used: 32 MB\t\n",
+        "@logStream": "2023/03/23/[$LATEST]0f1112038dda4e978487f4c611488440",
+        "@log": "878572211585:/aws/lambda/lambda-ruby-arm"
+    },
+    {
+        "@timestamp": "2023-03-23 04:47:19.039",
+        "@message": "REPORT RequestId: 2c3b9528-1495-4bb0-a94c-232f694be5de\tDuration: 7.07 ms\tBilled Duration: 8 ms\tMemory Size: 128 MB\tMax Memory Used: 32 MB\t\n",
+        "@logStream": "2023/03/23/[$LATEST]0f1112038dda4e978487f4c611488440",
+        "@log": "878572211585:/aws/lambda/lambda-ruby-arm"
+    },
+    {
+        "@timestamp": "2023-03-23 04:47:17.297",
+        "@message": "REPORT RequestId: aa8d5656-91de-427a-865d-cefc7e46a068\tDuration: 2.13 ms\tBilled Duration: 3 ms\tMemory Size: 128 MB\tMax Memory Used: 32 MB\t\n",
+        "@logStream": "2023/03/23/[$LATEST]0f1112038dda4e978487f4c611488440",
+        "@log": "878572211585:/aws/lambda/lambda-ruby-arm"
+    },
+    {
+        "@timestamp": "2023-03-23 04:47:15.460",
+        "@message": "REPORT RequestId: bc8ef97d-3425-4d29-bfd1-cb4bc5bd255c\tDuration: 14.95 ms\tBilled Duration: 15 ms\tMemory Size: 128 MB\tMax Memory Used: 32 MB\t\n",
+        "@logStream": "2023/03/23/[$LATEST]0f1112038dda4e978487f4c611488440",
+        "@log": "878572211585:/aws/lambda/lambda-ruby-arm"
+    },
+    {
+        "@timestamp": "2023-03-23 04:47:13.591",
+        "@message": "REPORT RequestId: 79d6263a-3c97-410b-8ad9-a2dae31daa2e\tDuration: 2.15 ms\tBilled Duration: 3 ms\tMemory Size: 128 MB\tMax Memory Used: 32 MB\t\n",
+        "@logStream": "2023/03/23/[$LATEST]0f1112038dda4e978487f4c611488440",
+        "@log": "878572211585:/aws/lambda/lambda-ruby-arm"
+    },
+    {
+        "@timestamp": "2023-03-23 04:47:11.762",
+        "@message": "REPORT RequestId: c8ce11c7-c4c7-4097-a8ca-7fc65039b2b2\tDuration: 2.34 ms\tBilled Duration: 3 ms\tMemory Size: 128 MB\tMax Memory Used: 31 MB\t\n",
+        "@logStream": "2023/03/23/[$LATEST]0f1112038dda4e978487f4c611488440",
+        "@log": "878572211585:/aws/lambda/lambda-ruby-arm"
+    },
+    {
+        "@timestamp": "2023-03-23 04:47:09.819",
+        "@message": "REPORT RequestId: 8980b888-6e5e-491e-a774-6c6fd8630d0d\tDuration: 17.78 ms\tBilled Duration: 18 ms\tMemory Size: 128 MB\tMax Memory Used: 31 MB\t\n",
+        "@logStream": "2023/03/23/[$LATEST]0f1112038dda4e978487f4c611488440",
+        "@log": "878572211585:/aws/lambda/lambda-ruby-arm"
+    },
+    {
+        "@timestamp": "2023-03-23 04:47:07.980",
+        "@message": "REPORT RequestId: 8a87cc4f-a579-4998-982b-cf765b8d2956\tDuration: 5.43 ms\tBilled Duration: 6 ms\tMemory Size: 128 MB\tMax Memory Used: 31 MB\t\n",
+        "@logStream": "2023/03/23/[$LATEST]0f1112038dda4e978487f4c611488440",
+        "@log": "878572211585:/aws/lambda/lambda-ruby-arm"
+    },
+    {
+        "@timestamp": "2023-03-23 04:47:06.160",
+        "@message": "REPORT RequestId: 7a1be4ee-0b29-4800-85f2-f91309491852\tDuration: 20.99 ms\tBilled Duration: 21 ms\tMemory Size: 128 MB\tMax Memory Used: 31 MB\t\n",
+        "@logStream": "2023/03/23/[$LATEST]0f1112038dda4e978487f4c611488440",
+        "@log": "878572211585:/aws/lambda/lambda-ruby-arm"
+    },
+    {
+        "@timestamp": "2023-03-23 04:47:04.319",
+        "@message": "REPORT RequestId: 3fc3afea-1665-4391-bbe7-bcd0ee42ad84\tDuration: 32.84 ms\tBilled Duration: 33 ms\tMemory Size: 128 MB\tMax Memory Used: 31 MB\t\n",
+        "@logStream": "2023/03/23/[$LATEST]0f1112038dda4e978487f4c611488440",
+        "@log": "878572211585:/aws/lambda/lambda-ruby-arm"
+    },
+    {
+        "@timestamp": "2023-03-23 04:47:02.521",
+        "@message": "REPORT RequestId: e1b61c31-7fcb-4d1d-b39a-e44571c21d37\tDuration: 12.12 ms\tBilled Duration: 13 ms\tMemory Size: 128 MB\tMax Memory Used: 30 MB\tInit Duration: 139.62 ms\t\n",
+        "@logStream": "2023/03/23/[$LATEST]0f1112038dda4e978487f4c611488440",
+        "@log": "878572211585:/aws/lambda/lambda-ruby-arm"
+    }
+]

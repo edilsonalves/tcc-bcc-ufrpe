@@ -1,0 +1,217 @@
+{
+  "Nome": "Warm start",
+  "Custo total": {
+    "mensal": "150.40",
+    "Pagamento adiantado": "0.00",
+    "12 meses": "1804.80"
+  },
+  "Metadados": {
+    "Moeda": "USD",
+    "Localidade": "pt_BR",
+    "Criado em": "16/04/2023",
+    "Isenção de responsabilidade legal": "A Calculadora de Preços da AWS fornece apenas uma estimativa de suas taxas da AWS e não inclui nenhuma taxa aplicável. Suas taxas reais dependem de vários fatores, inclusive de seu uso real dos serviços da AWS.",
+    "Compartilhar URL": "https://calculator.aws/#/estimate?id=80b942ab4bb8658e9b369a96af7c393991b436d0"
+  },
+  "Grupos": {
+    "x86_64": {
+      "Serviços": [
+        {
+          "Nome do serviço": "AWS Lambda",
+          "Descrição": "C# (.NET)",
+          "Região": "Oeste dos EUA (Oregon)",
+          "Custo do serviço": {
+            "mensal": "9.25",
+            "Pagamento adiantado": "0.00",
+            "12 meses": "111.00"
+          },
+          "Propriedades": {
+            "Arquitetura": "x86",
+            "Quantidade de armazenamento temporário alocada": "512 MB",
+            "Modo de invocação": "Em buffer",
+            "Número de solicitações": "1000000 por dia"
+          }
+        },
+        {
+          "Nome do serviço": "AWS Lambda",
+          "Descrição": "Go",
+          "Região": "Oeste dos EUA (Oregon)",
+          "Custo do serviço": {
+            "mensal": "6.40",
+            "Pagamento adiantado": "0.00",
+            "12 meses": "76.80"
+          },
+          "Propriedades": {
+            "Arquitetura": "x86",
+            "Modo de invocação": "Em buffer",
+            "Número de solicitações": "1000000 por dia",
+            "Quantidade de armazenamento temporário alocada": "512 MB"
+          }
+        },
+        {
+          "Nome do serviço": "AWS Lambda",
+          "Descrição": "Java",
+          "Região": "Oeste dos EUA (Oregon)",
+          "Custo do serviço": {
+            "mensal": "8.23",
+            "Pagamento adiantado": "0.00",
+            "12 meses": "98.76"
+          },
+          "Propriedades": {
+            "Arquitetura": "x86",
+            "Modo de invocação": "Em buffer",
+            "Número de solicitações": "1000000 por dia",
+            "Quantidade de armazenamento temporário alocada": "512 MB"
+          }
+        },
+        {
+          "Nome do serviço": "AWS Lambda",
+          "Descrição": "JavaScript (Node.js)",
+          "Região": "Oeste dos EUA (Oregon)",
+          "Custo do serviço": {
+            "mensal": "7.54",
+            "Pagamento adiantado": "0.00",
+            "12 meses": "90.48"
+          },
+          "Propriedades": {
+            "Arquitetura": "x86",
+            "Modo de invocação": "Em buffer",
+            "Número de solicitações": "1000000 por dia",
+            "Quantidade de armazenamento temporário alocada": "512 MB"
+          }
+        },
+        {
+          "Nome do serviço": "AWS Lambda",
+          "Descrição": "Python",
+          "Região": "Oeste dos EUA (Oregon)",
+          "Custo do serviço": {
+            "mensal": "34.22",
+            "Pagamento adiantado": "0.00",
+            "12 meses": "410.64"
+          },
+          "Propriedades": {
+            "Arquitetura": "x86",
+            "Modo de invocação": "Em buffer",
+            "Número de solicitações": "1000000 por dia",
+            "Quantidade de armazenamento temporário alocada": "512 MB"
+          }
+        },
+        {
+          "Nome do serviço": "AWS Lambda",
+          "Descrição": "Ruby",
+          "Região": "Oeste dos EUA (Oregon)",
+          "Custo do serviço": {
+            "mensal": "15.33",
+            "Pagamento adiantado": "0.00",
+            "12 meses": "183.96"
+          },
+          "Propriedades": {
+            "Arquitetura": "x86",
+            "Modo de invocação": "Em buffer",
+            "Número de solicitações": "1000000 por dia",
+            "Quantidade de armazenamento temporário alocada": "512 MB"
+          }
+        }
+      ]
+    },
+    "arm64": {
+      "Serviços": [
+        {
+          "Nome do serviço": "AWS Lambda",
+          "Descrição": "C# (.NET)",
+          "Região": "Oeste dos EUA (Oregon)",
+          "Custo do serviço": {
+            "mensal": "9.07",
+            "Pagamento adiantado": "0.00",
+            "12 meses": "108.84"
+          },
+          "Propriedades": {
+            "Arquitetura": "Arm",
+            "Modo de invocação": "Em buffer",
+            "Número de solicitações": "1000000 por dia",
+            "Quantidade de armazenamento temporário alocada": "512 MB"
+          }
+        },
+        {
+          "Nome do serviço": "AWS Lambda",
+          "Descrição": "Go",
+          "Região": "Oeste dos EUA (Oregon)",
+          "Custo do serviço": {
+            "mensal": "6.33",
+            "Pagamento adiantado": "0.00",
+            "12 meses": "75.96"
+          },
+          "Propriedades": {
+            "Arquitetura": "Arm",
+            "Modo de invocação": "Em buffer",
+            "Número de solicitações": "1000000 por dia",
+            "Quantidade de armazenamento temporário alocada": "512 MB"
+          }
+        },
+        {
+          "Nome do serviço": "AWS Lambda",
+          "Descrição": "Java",
+          "Região": "Oeste dos EUA (Oregon)",
+          "Custo do serviço": {
+            "mensal": "7.70",
+            "Pagamento adiantado": "0.00",
+            "12 meses": "92.40"
+          },
+          "Propriedades": {
+            "Arquitetura": "Arm",
+            "Modo de invocação": "Em buffer",
+            "Número de solicitações": "1000000 por dia",
+            "Quantidade de armazenamento temporário alocada": "512 MB"
+          }
+        },
+        {
+          "Nome do serviço": "AWS Lambda",
+          "Descrição": "JavaScript (Node.js)",
+          "Região": "Oeste dos EUA (Oregon)",
+          "Custo do serviço": {
+            "mensal": "7.50",
+            "Pagamento adiantado": "0.00",
+            "12 meses": "90.00"
+          },
+          "Propriedades": {
+            "Arquitetura": "Arm",
+            "Modo de invocação": "Em buffer",
+            "Número de solicitações": "1000000 por dia",
+            "Quantidade de armazenamento temporário alocada": "512 MB"
+          }
+        },
+        {
+          "Nome do serviço": "AWS Lambda",
+          "Descrição": "Python",
+          "Região": "Oeste dos EUA (Oregon)",
+          "Custo do serviço": {
+            "mensal": "25.60",
+            "Pagamento adiantado": "0.00",
+            "12 meses": "307.20"
+          },
+          "Propriedades": {
+            "Arquitetura": "Arm",
+            "Modo de invocação": "Em buffer",
+            "Número de solicitações": "1000000 por dia",
+            "Quantidade de armazenamento temporário alocada": "512 MB"
+          }
+        },
+        {
+          "Nome do serviço": "AWS Lambda",
+          "Descrição": "Ruby",
+          "Região": "Oeste dos EUA (Oregon)",
+          "Custo do serviço": {
+            "mensal": "13.23",
+            "Pagamento adiantado": "0.00",
+            "12 meses": "158.76"
+          },
+          "Propriedades": {
+            "Arquitetura": "Arm",
+            "Modo de invocação": "Em buffer",
+            "Número de solicitações": "1000000 por dia",
+            "Quantidade de armazenamento temporário alocada": "512 MB"
+          }
+        }
+      ]
+    }
+  }
+}
