@@ -1,0 +1,269 @@
+AWSTemplateFormatVersion: "2010-09-09"
+Transform: AWS::Serverless-2016-10-31
+Description: SAM template for TCC API
+
+Globals:
+  Function:
+    MemorySize: 128
+    Timeout: 300
+
+Resources:
+  DotNetFunction:
+    Type: AWS::Serverless::Function
+    Properties:
+      FunctionName: lambda-dotnet
+      CodeUri: lambda-dotnet/output
+      Handler: DotNetFunction::DotNetFunction.Lambda::FunctionHandler
+      Runtime: dotnet6
+      Architectures:
+        - x86_64
+      Events:
+        Event:
+          Type: Api
+          Properties:
+            Path: /dotnet
+            Method: get
+      Role: !GetAtt FunctionRole.Arn
+
+  DotNetArmFunction:
+    Type: AWS::Serverless::Function
+    Properties:
+      FunctionName: lambda-dotnet-arm
+      CodeUri: lambda-dotnet/output
+      Handler: DotNetFunction::DotNetFunction.Lambda::FunctionHandler
+      Runtime: dotnet6
+      Architectures:
+        - arm64
+      Events:
+        Event:
+          Type: Api
+          Properties:
+            Path: /dotnet-arm
+            Method: get
+      Role: !GetAtt FunctionRole.Arn
+
+  # ---
+
+  GoFunction:
+    Type: AWS::Serverless::Function
+    Properties:
+      FunctionName: lambda-go
+      CodeUri: lambda-go/output/lambda-go.zip
+      Handler: not.used.in.provided.runtime
+      Runtime: provided.al2
+      Architectures:
+        - x86_64
+      Events:
+        Event:
+          Type: Api
+          Properties:
+            Path: /go
+            Method: get
+      Role: !GetAtt FunctionRole.Arn
+
+  GoArmFunction:
+    Type: AWS::Serverless::Function
+    Properties:
+      FunctionName: lambda-go-arm
+      CodeUri: lambda-go/output/lambda-go-arm.zip
+      Handler: not.used.in.provided.runtime
+      Runtime: provided.al2
+      Architectures:
+        - arm64
+      Events:
+        Event:
+          Type: Api
+          Properties:
+            Path: /go-arm
+            Method: get
+      Role: !GetAtt FunctionRole.Arn
+
+  # ---
+
+  JavaFunction:
+    Type: AWS::Serverless::Function
+    Properties:
+      FunctionName: lambda-java
+      CodeUri: lambda-java/output/lambda-java-1.0-SNAPSHOT.jar
+      Handler: lambda.Lambda::handleRequest
+      Runtime: java11
+      Architectures:
+        - x86_64
+      Events:
+        Event:
+          Type: Api
+          Properties:
+            Path: /java
+            Method: get
+      Role: !GetAtt FunctionRole.Arn
+
+  JavaArmFunction:
+    Type: AWS::Serverless::Function
+    Properties:
+      FunctionName: lambda-java-arm
+      CodeUri: lambda-java/output/lambda-java-1.0-SNAPSHOT.jar
+      Handler: lambda.Lambda::handleRequest
+      Runtime: java11
+      Architectures:
+        - arm64
+      Events:
+        Event:
+          Type: Api
+          Properties:
+            Path: /java-arm
+            Method: get
+      Role: !GetAtt FunctionRole.Arn
+
+  # ---
+
+  NodeJsFunction:
+    Type: AWS::Serverless::Function
+    Properties:
+      FunctionName: lambda-nodejs
+      CodeUri: lambda-nodejs/
+      Handler: lambda.handler
+      Runtime: nodejs18.x
+      Architectures:
+        - x86_64
+      Events:
+        Event:
+          Type: Api
+          Properties:
+            Path: /nodejs
+            Method: get
+      Role: !GetAtt FunctionRole.Arn
+
+  NodeJsArmFunction:
+    Type: AWS::Serverless::Function
+    Properties:
+      FunctionName: lambda-nodejs-arm
+      CodeUri: lambda-nodejs/
+      Handler: lambda.handler
+      Runtime: nodejs18.x
+      Architectures:
+        - arm64
+      Events:
+        Event:
+          Type: Api
+          Properties:
+            Path: /nodejs-arm
+            Method: get
+      Role: !GetAtt FunctionRole.Arn
+
+  # ---
+
+  PythonFunction:
+    Type: AWS::Serverless::Function
+    Properties:
+      FunctionName: lambda-python
+      CodeUri: lambda-python/
+      Handler: lambda.handler
+      Runtime: python3.9
+      Architectures:
+        - x86_64
+      Events:
+        Event:
+          Type: Api
+          Properties:
+            Path: /python
+            Method: get
+      Role: !GetAtt FunctionRole.Arn
+
+  PythonArmFunction:
+    Type: AWS::Serverless::Function
+    Properties:
+      FunctionName: lambda-python-arm
+      CodeUri: lambda-python/
+      Handler: lambda.handler
+      Runtime: python3.9
+      Architectures:
+        - arm64
+      Events:
+        Event:
+          Type: Api
+          Properties:
+            Path: /python-arm
+            Method: get
+      Role: !GetAtt FunctionRole.Arn
+
+  # ---
+
+  RubyFunction:
+    Type: AWS::Serverless::Function
+    Properties:
+      FunctionName: lambda-ruby
+      CodeUri: lambda-ruby/
+      Handler: lambda.handler
+      Runtime: ruby2.7
+      Architectures:
+        - x86_64
+      Events:
+        Event:
+          Type: Api
+          Properties:
+            Path: /ruby
+            Method: get
+      Role: !GetAtt FunctionRole.Arn
+
+  RubyArmFunction:
+    Type: AWS::Serverless::Function
+    Properties:
+      FunctionName: lambda-ruby-arm
+      CodeUri: lambda-ruby/
+      Handler: lambda.handler
+      Runtime: ruby2.7
+      Architectures:
+        - arm64
+      Events:
+        Event:
+          Type: Api
+          Properties:
+            Path: /ruby-arm
+            Method: get
+      Role: !GetAtt FunctionRole.Arn
+
+  # ---
+
+  FunctionRole:
+    Type: AWS::IAM::Role
+    Properties:
+      AssumeRolePolicyDocument:
+        Version: "2012-10-17"
+        Statement:
+          - Action:
+              - sts:AssumeRole
+            Effect: Allow
+            Principal:
+              Service:
+                - lambda.amazonaws.com
+      ManagedPolicyArns:
+        - arn:aws:iam::aws:policy/service-role/AWSLambdaBasicExecutionRole
+
+  # ---
+
+  ApplicationResourceGroup:
+    Type: AWS::ResourceGroups::Group
+    Properties:
+      Name:
+        Fn::Join:
+          - ""
+          - - ApplicationInsights-SAM-
+            - Ref: AWS::StackName
+      ResourceQuery:
+        Type: CLOUDFORMATION_STACK_1_0
+
+  ApplicationInsightsMonitoring:
+    Type: AWS::ApplicationInsights::Application
+    Properties:
+      ResourceGroupName:
+        Fn::Join:
+          - ""
+          - - ApplicationInsights-SAM-
+            - Ref: AWS::StackName
+      AutoConfigurationEnabled: "true"
+    DependsOn: ApplicationResourceGroup
+
+Outputs:
+  TccApi:
+    Description: API Gateway endpoint URL for TCC API
+    Value: !Sub "https://${ServerlessRestApi}.execute-api.${AWS::Region}.amazonaws.com/Prod"
